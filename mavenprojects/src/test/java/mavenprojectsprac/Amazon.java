@@ -21,6 +21,7 @@ public class Amazon {
 	}
 	@Test
 	public void signin1() {
+		//For sign in
 		WebElement ele2=driver.findElement(By.name("email"));
 		ele2.sendKeys("9322510785");
 		
