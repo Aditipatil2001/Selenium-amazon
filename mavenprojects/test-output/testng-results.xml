@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-24T20:17:20 IST" name="Default suite" finished-at="2024-06-24T20:17:40 IST" duration-ms="20644">
+    <groups>
+    </groups>
+    <test started-at="2024-06-24T20:17:20 IST" name="Default test" finished-at="2024-06-24T20:17:40 IST" duration-ms="20644">
+      <class name="mavenprojectsprac.Amazon">
+        <test-method is-config="true" signature="signin()[pri:0, instance:mavenprojectsprac.Amazon@10c8f62]" started-at="2024-06-24T20:17:20 IST" name="signin" finished-at="2024-06-24T20:17:24 IST" duration-ms="4620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method signature="signin1()[pri:0, instance:mavenprojectsprac.Amazon@10c8f62]" started-at="2024-06-24T20:17:25 IST" name="signin1" finished-at="2024-06-24T20:17:40 IST" duration-ms="15943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin1 -->
+      </class> <!-- mavenprojectsprac.Amazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
